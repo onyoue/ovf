@@ -1,3 +1,3 @@
-# v-gltf
+# ovf
 
-## gltf viewer written in Rust
+## gltf viewer by C++ / Vulkan
